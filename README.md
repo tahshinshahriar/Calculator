@@ -1,1 +1,1 @@
-This is an attempt at following a YouTube tutorial to learn more about developing applications using ReactJS. The app performs basic arithmatic operations like addition, subtraction, multiplication, and division and displays the result on the screen
+This is an attempt at following a YouTube tutorial to learn more about developing applications using ReactJS. The app performs basic arithmatic operations like addition, subtraction, multiplication, and division and displays the result on the screen. 
